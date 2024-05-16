@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Detege.
-- 👀 I’m interested in optimising graphic design workflows.
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in automation and design systems.
+- 🌱 I’m currently learning fornt-end with React.
 - 📫 How to reach me: www.danielterol.com
 
 <!---
